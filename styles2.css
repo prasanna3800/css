@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+nav a{
+    text-decoration: none;
+    padding-right: 20px;
+}
+div{
+    background-color:lightblue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
